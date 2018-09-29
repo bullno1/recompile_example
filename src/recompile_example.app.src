@@ -1,0 +1,8 @@
+{application, recompile_example,
+ [ {description, "Example of using recompile"}
+ , {vsn, "0.1.0"}
+ , {registered, []}
+ , {applications, []}
+ , {env, []}
+ , {modules, []}
+ ]}.
